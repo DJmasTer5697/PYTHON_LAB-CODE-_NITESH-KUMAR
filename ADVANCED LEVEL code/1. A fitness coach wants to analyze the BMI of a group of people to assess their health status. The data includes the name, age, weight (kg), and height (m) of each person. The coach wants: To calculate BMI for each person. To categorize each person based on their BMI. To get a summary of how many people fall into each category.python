@@ -13,7 +13,6 @@ def bmi_category(bmi):
     else:
         return "Obese"
 
-# List of people: (name, age, weight, height)
 people = [
     ("Amit", 25, 70, 1.75),
     ("Neha", 22, 52, 1.60),
